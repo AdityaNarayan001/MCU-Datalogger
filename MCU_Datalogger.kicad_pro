@@ -224,7 +224,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "1"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -642,13 +642,17 @@
         "uuid": "be0e049b-3252-4cb6-b7a0-fc0c27c4f38f"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J1-4,H1-4,C1-5,D1-2,BT1,R1-7,Y1-2,U1-4",
     "variants": []
   },
   "sheets": [
     [
       "be0e049b-3252-4cb6-b7a0-fc0c27c4f38f",
       "Root"
+    ],
+    [
+      "4d1545ee-5278-4eac-9028-d26047bbefab",
+      "Connectors"
     ]
   ],
   "text_variables": {
