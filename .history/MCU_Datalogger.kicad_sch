@@ -2895,6 +2895,18 @@
 		)
 		(uuid "1cffe82f-2062-4eb4-aa1b-f882d0a96801")
 	)
+	(text "Mounting"
+		(exclude_from_sim no)
+		(at 260.35 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+		)
+		(uuid "a00b1f0b-9173-4d93-acae-b2bc94234b03")
+	)
 	(text "Real Time Clock"
 		(exclude_from_sim no)
 		(at 33.02 25.4 0)
