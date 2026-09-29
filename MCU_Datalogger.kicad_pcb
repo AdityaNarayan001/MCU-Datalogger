@@ -2315,6 +2315,17 @@
 			(uuid "e96f2630-58e0-44fe-ae00-1299e840a6a2")
 		)
 		(embedded_fonts no)
+		(model "/Users/adityanarayan/Downloads/KiCAD-Libs/DS1337S_/DS1337S_.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -3836,6 +3847,17 @@
 			(uuid "2cb9ee59-9697-498f-b0df-5d0c885c94d9")
 		)
 		(embedded_fonts no)
+		(model "/Users/adityanarayan/Downloads/KiCAD-Libs/ATMEGA328P-AU/ATMEGA328P-AU.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
