@@ -7253,6 +7253,443 @@
 			(justify left bottom mirror)
 		)
 	)
+	(table
+		(column_count 4)
+		(uuid "763696cf-d19e-4fce-be24-59519a5d9475")
+		(layer "User.1")
+		(border
+			(external no)
+			(header no)
+		)
+		(separators
+			(rows no)
+			(cols no)
+		)
+		(column_widths 39.978931 34.921285 28.128459 15.564641)
+		(row_heights 4.405 4.204748 3.776176 4.274527 4.197388 4.197388 4.205)
+		(cells
+			(table_cell "BOARD CHARACTERISTICS"
+				(start 163.576 64.77)
+				(end 282.169316 69.175)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 4 1)
+				(layer "F.Cu")
+				(uuid "05af03ac-8e9d-445a-b8d2-76a5c6ae444a")
+				(effects
+					(font
+						(size 2 2)
+						(thickness 0.4)
+					)
+					(justify left)
+				)
+			)
+			(table_cell ""
+				(start 203.554931 64.77)
+				(end 238.476216 69.175)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 0 1)
+				(layer "F.Cu")
+				(uuid "2aa1920c-c7d4-4d17-bc45-eb53aecc54e0")
+				(effects
+					(font
+						(size 2 2)
+						(thickness 0.4)
+					)
+					(justify left)
+				)
+			)
+			(table_cell ""
+				(start 238.476216 64.77)
+				(end 266.604675 69.175)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 0 1)
+				(layer "F.Cu")
+				(uuid "20be25c2-e120-43b1-987c-4d59c0b93faa")
+				(effects
+					(font
+						(size 2 2)
+						(thickness 0.4)
+					)
+					(justify left)
+				)
+			)
+			(table_cell ""
+				(start 266.604675 64.77)
+				(end 282.169316 69.175)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 0 1)
+				(layer "F.Cu")
+				(uuid "77ab3ca5-8c42-4b2f-b8fe-9eec67fd45f5")
+				(effects
+					(font
+						(size 2 2)
+						(thickness 0.4)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "Copper layer count: "
+				(start 163.576 69.175)
+				(end 203.554931 73.379748)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "6d9579e1-0d95-4f70-bd17-b256a045b8b8")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "4"
+				(start 203.554931 69.175)
+				(end 238.476216 73.379748)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "b879b9d8-c45e-4852-8989-712e18013e9b")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "Board thickness: "
+				(start 238.476216 69.175)
+				(end 266.604675 73.379748)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "d0dfb749-d8a0-47fe-9cc4-bec30023aa7d")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "1.6000 mm"
+				(start 266.604675 69.175)
+				(end 282.169316 73.379748)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "5d23a353-b71b-4524-81e1-4da946af1622")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "Board overall dimensions: "
+				(start 163.576 73.379748)
+				(end 203.554931 77.155924)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "2fa47965-dfef-402c-b319-d3cb6749f2c8")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "51.7144 mm x 34.5440 mm"
+				(start 203.554931 73.379748)
+				(end 238.476216 77.155924)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "b7d6f7e0-a461-477e-bd26-816a8428d756")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell ""
+				(start 238.476216 73.379748)
+				(end 266.604675 77.155924)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "a8882eba-ce9a-4c0d-9f11-8f0df2d8152d")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell ""
+				(start 266.604675 73.379748)
+				(end 282.169316 77.155924)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "8f73bcd7-9f66-4132-abc7-217ae3da380d")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "Min track/spacing: "
+				(start 163.576 77.155924)
+				(end 203.554931 81.430451)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "09e1fdf5-d891-475c-9b87-f369391018bc")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "0.2000 mm / 0.2000 mm"
+				(start 203.554931 77.155924)
+				(end 238.476216 81.430451)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "fbc4d3d2-277f-4041-9cdd-6eca20cadcaa")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "Min hole diameter: "
+				(start 238.476216 77.155924)
+				(end 266.604675 81.430451)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "c649b1a5-050f-4b27-9bba-d82cc574ad9f")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "0.3000 mm"
+				(start 266.604675 77.155924)
+				(end 282.169316 81.430451)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "bdfca186-081a-49bb-ad65-7170a1fb5e3e")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "Copper finish: "
+				(start 163.576 81.430451)
+				(end 203.554931 85.627839)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "03926d09-e90c-4703-8f5f-fe3d97f3fb57")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "None"
+				(start 203.554931 81.430451)
+				(end 238.476216 85.627839)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "c41fc1ce-328f-4c5e-b3e9-485ec91ff508")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "Impedance control: "
+				(start 238.476216 81.430451)
+				(end 266.604675 85.627839)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "e4e3d6c0-02ad-4109-8766-a952c50ab299")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "No"
+				(start 266.604675 81.430451)
+				(end 282.169316 85.627839)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "d7b0bb89-ad26-4752-b095-ac91144e5f40")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "Castellated pads: "
+				(start 163.576 85.627839)
+				(end 203.554931 89.825227)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "afb430c6-688b-4be9-b01b-2d1575b1951e")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "No"
+				(start 203.554931 85.627839)
+				(end 238.476216 89.825227)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "e1438562-9931-4870-83d3-e98f7bb9b0b3")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "Press-fit pads: "
+				(start 238.476216 85.627839)
+				(end 266.604675 89.825227)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "e16914fa-1765-46fe-a809-9c9933e6b22a")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "No"
+				(start 266.604675 85.627839)
+				(end 282.169316 89.825227)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "7e3a7257-dced-4f65-90ad-08a320f76aad")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "Plated board edge: "
+				(start 163.576 89.825227)
+				(end 203.554931 94.030227)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "5efffda0-a5ff-460c-b163-5081cb490037")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "No"
+				(start 203.554931 89.825227)
+				(end 238.476216 94.030227)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "067260d1-0eb6-437b-b386-e79b4e1b3a39")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "Edge card connectors: "
+				(start 238.476216 89.825227)
+				(end 266.604675 94.030227)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "1492dc9b-2fb1-44e1-95ec-2fd0a774c95a")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+			(table_cell "No"
+				(start 266.604675 89.825227)
+				(end 282.169316 94.030227)
+				(margins 1.0025 1.0025 1.0025 1.0025)
+				(span 1 1)
+				(layer "F.Cu")
+				(uuid "8b9402d4-cbac-48d8-bff5-63dc484057c1")
+				(effects
+					(font
+						(size 1.5 1.5)
+						(thickness 0.2)
+					)
+					(justify left)
+				)
+			)
+		)
+	)
 	(segment
 		(start 111.125 85.725)
 		(end 114.3 82.55)
